@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FoodMaker</string>
+    <string name="api_key">b5f41c3ff1ce489b9c19e3d879bbbd29</string>
+
+    <string-array name="tags">
+        <item>main course</item>
+        <item>appetizer</item>
+        <item>dessert</item>
+        <item>breakfast</item>
+        <item>salad</item>
+        <item>snack</item>
+        <item>soup</item>
+    </string-array>
+
+</resources>
